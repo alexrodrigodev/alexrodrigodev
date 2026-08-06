@@ -34,15 +34,19 @@ Possuo experiência prática na resolução de incidentes em sistemas corporativ
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexrodrigodev&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas de Alex Rodrigo" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexrodrigodev&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" height="150" />
+  <a href="https://github.com/alexrodrigodev" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=alexrodrigodev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas de Alex Rodrigo" height="150" />
+  </a>
+  <a href="https://github.com/alexrodrigodev" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexrodrigodev&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" height="150" />
+  </a>
 </p>
 
 ---
 
 ### 🎓 Formação & Destaques
 
-- 🎓 **MBA em Cloud Computing & DevOps** — FIAP / Impacta
+- 🎓 **MBA em Cloud Computing & DevOps** — Impacta
 - 🛡️ **Pós-graduação em Defensive Cyber Security (Blue Team)** — FIAP
 - 📜 **+95 certificações** na área de Tecnologia, Nuvem, Segurança e IA
 - 🎮 **Curiosidade:** Ex-vice campeão mundial de FIFA (2019) ⚽
@@ -51,4 +55,6 @@ Possuo experiência prática na resolução de incidentes em sistemas corporativ
 
 ### 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexrrodrigo)
+<a href="https://linkedin.com/in/alexrrodrigo" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
