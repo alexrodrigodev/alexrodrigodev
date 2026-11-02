@@ -2,7 +2,7 @@
 
 ### Software Engineer | Cloud & DevSecOps
 
-Desenvolvedor Backend focado no ecossistema **Java (Spring Boot)** e **Node.js**, com sólida base em arquitetura resiliente na **AWS**, automação DevOps e segurança defensiva (DevSecOps). Pós-graduado em Cloud Computing & DevOps e Defensive Cyber Security pela FIAP.
+Desenvolvedor Backend focado no ecossistema **Java (Spring Boot)** e **Node.js**, com sólida base em arquitetura resiliente na **AWS**, automação DevOps e segurança defensiva (DevSecOps). MBA em Cloud Computing & DevOps e Pós-graduado em Defensive Cyber Security pela FIAP.
 
 Experiência prática na resolução de incidentes corporativos, análise de causa raiz, microsserviços/APIs RESTful e otimização de bancos de dados relacionais e NoSQL.
 
@@ -44,6 +44,6 @@ Experiência prática na resolução de incidentes corporativos, análise de cau
 
 ### 🌐 Conecte-se comigo
 
-<a href="https://linkedin.com/in/alexrrodngo" target="_blank">
+<a href="https://linkedin.com/in/alexrrodrigo" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn" />
 </a>
